@@ -18,20 +18,20 @@
 
             <Button
                 android:id="@+id/one"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/two"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/three"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
         </TableRow>
 
@@ -43,20 +43,20 @@
 
             <Button
                 android:id="@+id/four"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/five"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/six"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
         </TableRow>
 
@@ -68,20 +68,20 @@
 
             <Button
                 android:id="@+id/seven"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/eight"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
 
             <Button
                 android:id="@+id/nine"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_width="@dimen/cell_width"
+                android:layout_height="@dimen/cell_height"
                 android:textSize="@dimen/cell_text_size" />
         </TableRow>
     </TableLayout>
